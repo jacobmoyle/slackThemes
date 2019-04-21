@@ -4,8 +4,6 @@ Slack themes for companies I've worked for. These are all based off some type of
 
 ## [ClearMetal](https://www.clearmetal.com/)
 
-Less intense active bubbles:
-
 ![Hex code eff3f6](https://placehold.it/15/eff3f6/000000?text=+) ![Hex code 43badf](https://placehold.it/15/43badf/000000?text=+) ![Hex code ea5329](https://placehold.it/15/ea5329/000000?text=+) ![Hex code 2d3e55](https://placehold.it/15/2d3e55/000000?text=+) ![Hex code 7b7d83](https://placehold.it/15/7b7d83/000000?text=+)
 
 ```
