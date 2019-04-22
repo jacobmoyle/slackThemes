@@ -1,6 +1,6 @@
-# :nail_care: Themes
+# :nail_care: Themes :new_moon_with_face:
 
-Slack themes for companies I've worked for. These are all based off some type of branding that caught my eye and do not accurately represent the actual company branding guidelines. I also prefer dark themes :new_moon_with_face:
+Slack themes inspired by companies I've worked for.
 
 ## [ClearMetal](https://www.clearmetal.com/)
 
