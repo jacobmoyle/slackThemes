@@ -2,7 +2,7 @@
 
 Slack themes inspired by companies I've worked for.
 
-## [ClearMetal](https://www.clearmetal.com/)
+## [ClearMetal](https://www.clearmetal.com/) | [Screenshot](./assets/clearmetal.png)
 
 ![Hex code eff3f6](https://placehold.it/15/eff3f6/000000?text=+) ![Hex code 43badf](https://placehold.it/15/43badf/000000?text=+) ![Hex code ea5329](https://placehold.it/15/ea5329/000000?text=+) ![Hex code 2d3e55](https://placehold.it/15/2d3e55/000000?text=+) ![Hex code 7b7d83](https://placehold.it/15/7b7d83/000000?text=+)
 
@@ -10,18 +10,13 @@ Slack themes inspired by companies I've worked for.
 #2d3e55,#7b7d83,#ea5329,#eff3f6,#7b7d83,#eff3f6,#43badf,#43badf
 ```
 
-![ClearMetal color theme applied to Slack](./assets/clearmetal.png)
-
-## [The Artists Mat](https://www.instagram.com/artistsmat/?hl=en)
+## [The Artists Mat](https://www.instagram.com/artistsmat/?hl=en) | [Screenshot](./assets/theartistsmat.png)
 
 ![Hex code #eff3f6](https://placehold.it/15/eff3f6/000000?text=+) ![Hex code #fcfbeb](https://placehold.it/15/fcfbeb/000000?text=+) ![Hex code #ffc90b](https://placehold.it/15/ffc90b/000000?text=+) ![Hex code #1c3d5a](https://placehold.it/15/1c3d5a/000000?text=+) ![Hex code #12283a](https://placehold.it/15/12283a/000000?text=+)
 
 ```
 #1c3d5a,#12283a,#ffc90b,#1c3d5a,#12283a,#eff3f6,#fcfbeb,#ffc90b
 ```
-
-
-![The Artist Mat color theme applied to Slack](./assets/theartistsmat.png)
 
 # Todo:
 
