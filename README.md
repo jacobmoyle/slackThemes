@@ -2,17 +2,34 @@
 
 Slack themes inspired by companies I've worked for.
 
-## [ClearMetal](https://www.clearmetal.com/) | [Screenshot](./assets/clearmetal.png)
+## [ClearMetal](https://www.clearmetal.com/)
 
-![Hex code eff3f6](https://placehold.it/15/eff3f6/000000?text=+) ![Hex code 43badf](https://placehold.it/15/43badf/000000?text=+) ![Hex code ea5329](https://placehold.it/15/ea5329/000000?text=+) ![Hex code 2d3e55](https://placehold.it/15/2d3e55/000000?text=+) ![Hex code 7b7d83](https://placehold.it/15/7b7d83/000000?text=+)
+![Hex code 2D3E55](https://placehold.it/15/2D3E55/000000?text=+)
+![Hex code 7B7D83](https://placehold.it/15/7B7D83/000000?text=+)
+![Hex code EA5329](https://placehold.it/15/EA5329/000000?text=+)
+![Hex code EFF3F6](https://placehold.it/15/EFF3F6/000000?text=+)
+![Hex code 7B7D83](https://placehold.it/15/7B7D83/000000?text=+)
+![Hex code EFF3F6](https://placehold.it/15/EFF3F6/000000?text=+)
+![Hex code 43BADF](https://placehold.it/15/43BADF/000000?text=+)
+![Hex code 43BADF](https://placehold.it/15/43BADF/000000?text=+)
+![Hex code 2D3E55](https://placehold.it/15/2D3E55/000000?text=+)
+![Hex code EFF3F6](https://placehold.it/15/EFF3F6/000000?text=+)
+
 
 ```
-#2d3e55,#7b7d83,#ea5329,#eff3f6,#7b7d83,#eff3f6,#43badf,#43badf
+#2D3E55,#7B7D83,#EA5329,#EFF3F6,#7B7D83,#EFF3F6,#43BADF,#43BADF,#2D3E55,#EFF3F6
 ```
 
 ## [The Artists Mat](https://www.instagram.com/artistsmat/?hl=en) | [Screenshot](./assets/theartistsmat.png)
 
-![Hex code #eff3f6](https://placehold.it/15/eff3f6/000000?text=+) ![Hex code #fcfbeb](https://placehold.it/15/fcfbeb/000000?text=+) ![Hex code #ffc90b](https://placehold.it/15/ffc90b/000000?text=+) ![Hex code #1c3d5a](https://placehold.it/15/1c3d5a/000000?text=+) ![Hex code #12283a](https://placehold.it/15/12283a/000000?text=+)
+![Hex code #1c3d5a](https://placehold.it/15/1c3d5a/000000?text=+)
+![Hex code #12283a](https://placehold.it/15/12283a/000000?text=+)
+![Hex code #ffc90b](https://placehold.it/15/ffc90b/000000?text=+)
+![Hex code #1c3d5a](https://placehold.it/15/1c3d5a/000000?text=+)
+![Hex code #12283a](https://placehold.it/15/12283a/000000?text=+)
+![Hex code #eff3f6](https://placehold.it/15/eff3f6/000000?text=+)
+![Hex code #fcfbeb](https://placehold.it/15/fcfbeb/000000?text=+)
+![Hex code #ffc90b](https://placehold.it/15/ffc90b/000000?text=+)
 
 ```
 #1c3d5a,#12283a,#ffc90b,#1c3d5a,#12283a,#eff3f6,#fcfbeb,#ffc90b
